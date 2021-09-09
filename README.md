@@ -1,7 +1,7 @@
 # infosatc-lp-avaliativo-02
 
 
-<img  align="right" width="400" height="400" src="foto1.jpg">
+<img  align="left" width="400" height="400" src="foto1.jpg">
 
 <h1 align="center">Técnico informática </h1>
 
